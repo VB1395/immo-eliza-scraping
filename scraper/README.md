@@ -27,7 +27,7 @@ Libraries used: BeautifulSoup, Selenium and Pandas
 2 .To run the script, you can execute the `main.py` file from your command line:
 
     ```
-    python main.py
+    python scraper.py
     ```
 
 ## ⏱️ Timeline
