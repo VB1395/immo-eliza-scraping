@@ -1,6 +1,6 @@
 # Immoweb Scraper
 Immoweb Scraper is a Python program designed for scraping information about houses and apartments that are for sale Immoweb.
-The database `csv` file have following columns:
+The database `data.csv` file have following columns:
 - Property ID
 - Locality name
 - Postal code
@@ -21,6 +21,7 @@ The database `csv` file have following columns:
 Libraries used: BeautifulSoup, Selenium and Pandas
 
 ## 🛎️ Usage 
+
 1. Clone the repository to your local machine.
 
 2 .To run the script, you can execute the `main.py` file from your command line:
