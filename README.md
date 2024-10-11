@@ -17,10 +17,10 @@ The database `csv` file have following columns:
 - Swimming pool (0/1)
 - State of building (new, to be renovated, ...)
 
-##Installation 
+## 📦Installation 
 Libraries used: BeautifulSoup, Selenium and Pandas
 
-##Usage 
+## 🛎️ Usage 
 1. Clone the repository to your local machine.
 
 2 .To run the script, you can execute the `main.py` file from your command line:
