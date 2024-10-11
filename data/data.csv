@@ -1,0 +1,123 @@
+Property ID,Locality name,Postal code,Price,Type of property,Subtype of property,Type of sale,Number of rooms,Living area (area in m²),Equipped kitchen (0/1),Furnished (0/1),Open fire (0/1),Terrace (area in m² or null if no terrace),Garden (area in m² or null if no garden),Number of facades,Swimming pool (0/1),State of building
+20240478,lierde,9570,"€398,175",Other,,,,,0,0,0,,,,0,
+20240433,zulte-machelen,9870,"€399,000
+*
+399000€",Other,,,,,0,0,0,,,,0,
+20239563,bruxelles,1000,"€615,000",Other,,,,,0,0,0,,,,0,
+20239414,ukkel,1180,"€774,500",Other,,,,,0,0,0,,,,0,
+20239506,ixelles,1050,"€1,200,000",Other,,,,,0,0,0,,,,0,
+20240024,averbode,3271,"€336,500
+*
+336500€",Other,,,,,0,0,0,,,,0,
+20233894,deinze,9800,"€337,000",Other,,,,,0,0,0,,,,0,
+20236365,ronse,9600,"€347,400",Other,,,,,0,0,0,,,,0,
+20236677,aalst,9300,"€349,000
+*
+349000€",Other,,,,,0,0,0,,,,0,
+20236132,gavere,9890,"€365,000",Other,,,,,0,0,0,,,,0,
+20235803,merendree,9850,"€370,000",Other,,,,,0,0,0,,,,0,
+20236252,wetteren,9230,"€404,500",Other,,,,,0,0,0,,,,0,
+20239119,noorderwijk,2200,"€430,000",Other,,,,,0,0,0,,,,0,
+20235883,sint-denijs-westrem,9051,"€458,000",Other,,,,,0,0,0,,,,0,
+20235884,gentbrugge,9050,"€467,000",Other,,,,,0,0,0,,,,0,
+20235186,bruxelles,1130,"€481,000",Other,,,,,0,0,0,,,,0,
+20235194,machelen,1830,"€481,000",Other,,,,,0,0,0,,,,0,
+20235621,gent,9000,"€498,000",Other,,,,,0,0,0,,,,0,
+20235882,zwijnaarde,9052,"€679,000",Other,,,,,0,0,0,,,,0,
+20240496,waregem,8790,"€299,000
+299000€",House,,,4,354 m²,1,0,1,,,3,0,Good
+20239177,elzele,7890,"€349,000
+349000€",House,,,3,138 m²,1,0,0,25 m²,2000 m²,4,0,To be done up
+20238847,ronse,9600,"€349,000
+349000€",House,,,3,138 m²,1,0,0,25 m²,2000 m²,4,0,To be done up
+20232703,waasmunster,9250,"€455,000
+*
+455000€",Other,,,,,0,0,0,,,,0,
+20232704,oostduinkerke,8670,"€473,000
+*
+473000€",Other,,,,,0,0,0,,,,0,
+9397247,brugge,8000,"€485,000
+*
+485000€",Other,,,,,0,0,0,,,,0,
+20235436,olen,2250,"€543,000
+*
+543000€",Other,,,,,0,0,0,,,,0,
+20236558,antwerpen,2018,"€389,900
+389900€",House,,,3,150 m²,1,0,0,5 m²,19 m²,2,0,Just renovated
+20236560,borgerhout,2140,"€389,900
+389900€",House,,,3,150 m²,1,0,0,5 m²,19 m²,2,0,Just renovated
+20236655,waterloo,1410,"€975,000
+975000€",House,,,7,465 m²,1,0,1,,477 m²,4,0,Good
+20236653,braine-lalleud,1420,"€975,000
+975000€",House,,,7,465 m²,1,0,1,,477 m²,4,0,Good
+20240585,willebroek%20blaasveld,2830,"€645,000
+645000€",House,,,4,273 m²,1,0,1,,,3,0,
+20240584,berchem-sainte-agathe,1082,"€835,000
+835000€",House,,,5,320 m²,1,0,0,,,,0,
+20240583,berchem-sainte-agathe,1082,"Make an offer starting from
+€835,000
+835000€",Apartment,,,6,320 m²,1,0,0,,,,0,
+20240582,meeffe,4219,"Make an offer starting from
+€370,000
+*
+370000€",House,,,3,160 m²,1,0,0,1 m²,1 m²,4,0,As new
+20240580,mechelen,2800,"€675,000
+675000€",Apartment,,,5,,0,0,0,,,3,0,Good
+20240579,brugge,8000,"€1,100,000
+1100000€",Other,,,4,350 m²,1,0,0,,600 m²,4,0,As new
+20240578,fexhe-le-haut-clocher,4347,"Make an offer starting from
+€294,400
+*
+294400€",Apartment,,,3,,1,0,0,1 m²,,,0,As new
+20240575,sint-kruis,8310,"€449,000
+449000€",House,,,2,132 m²,0,0,0,,,4,0,
+20240573,meeffe,4219,"Make an offer starting from
+€355,000
+*
+355000€",House,,,3,160 m²,1,0,0,1 m²,1 m²,3,0,As new
+20240571,hasselt,3500,"€450,000
+450000€",House,,,3,228 m²,1,0,0,,,3,0,Good
+20240570,evere,1140,"€235,000
+235000€",Apartment,,,2,75 m²,0,0,0,14 m²,,,0,Good
+20240563,antwerpen,2060,"€160,000
+160000€",Other,,,1,69 m²,1,0,0,,,2,0,To be done up
+20240558,rambrouch,8805,"€850,000
+850000€",House,,,5,301 m²,0,0,0,,,3,0,Good
+20240557,aalst,9300,"€409,000
+409000€",House,,,4,225 m²,0,0,1,,,2,0,Just renovated
+20240556,bouillon,6830,"Make an offer starting from
+€1,150,000
+1150000€",Other,,,6,416 m²,1,0,0,80 m²,3000 m²,4,0,As new
+20240554,schaerbeek,1030,"€1,145,000
+1145000€",Other,,,5,375 m²,0,0,0,30 m²,215 m²,2,0,As new
+20240553,laeken,1020,"€300,000
+300000€",House,,,2,105 m²,1,1,0,,,2,0,Good
+20240551,wilrijk,2610,"€410,000
+410000€",Apartment,,,3,185 m²,1,0,0,,25 m²,2,0,Just renovated
+20240550,aartselaar,2630,"€499,000
+499000€",House,,,4,218 m²,1,0,0,,530 m²,3,0,Good
+20240549,wellin,6920,"€219,000
+219000€",House,,,3,103 m²,1,0,0,,1160 m²,2,0,
+20234257,merchtem,1785,"€249,000
+*
+249000€",Apartment,,,1,80 m²,0,0,0,14 m²,,2,0,
+20240545,hoboken,2660,"€269,000
+269000€",Apartment,,,2,86 m²,1,0,0,25 m²,,,0,As new
+20240535,brasschaat,2930,"€860,000",Other,,,,,0,0,0,,,,0,
+20228280,diegem,1831,"Make an offer starting from
+€449,000
+449000€",House,,,3,230 m²,1,0,0,,,3,0,To be done up
+11457614,oudenaarde,9700,"€199,000
+199000€
+Old Price
+€229,000",House,,,2,,0,0,0,30 m²,,3,0,
+20240531,lebbeke,9280,"€359,000
+359000€",House,,,3,190 m²,0,0,0,,,2,0,Just renovated
+20240529,melle,9090,"€295,000
+295000€",House,,,3,170 m²,0,0,1,,,,0,
+20240525,berchem,2600,"€425,000
+425000€",House,,,3,138 m²,1,0,0,11 m²,,,0,Just renovated
+20240524,berchem,2600,"€365,000
+365000€",Apartment,,,3,190 m²,1,0,0,36 m²,,,0,Good
+20240522,leopoldsburg,3970,"€354,900
+354900€",House,,,3,160 m²,0,0,0,,,4,0,Good
