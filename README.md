@@ -34,4 +34,5 @@ This project took four days for completion.
 
 ## 📌 Personal Situation
 This project was done as part of the AI Bootcamp at BeCode.org. 
-Connect with me on [LinkedIn] (https://www.linkedin.com/in/veena-bhawani-b41804111/)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/veena-bhawani-b41804111/).
